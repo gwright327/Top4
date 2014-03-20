@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+	<title>Top 4 Cars of 2014</title>
+</head>
+<body style = "background-color: White">
+	
+	<p style = "text-align: center; font-family: Cursive">Top 5 Cars of 2014</p>
+	<p style = "font-family: Sans-serif"><strong><u>Bentley Continental GT</u></strong></p>
+
+<p>
+	<a href = "http://www.bentleymotors.com/models/continental_gt/">
+	<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSepK743bht7wGLWAN3TtSBHPHj1KQ7SZdP7hrKj1-moapibIow"/></a>
+</p>
+	<img src = "http://www.egmcartech.com/wp-content/uploads/2013/05/2014-Bentley-Continental-GT-Le-Mans-Limited-Edition-Rear-3-4-Right.jpg"/>
+
+
+<table width = "200" border = "1px">
+ <tr>
+   <td>MSRP</td>
+   <td>$177,500.00</td>
+ </tr>
+<tr>
+   <td>Top Speed</td>
+   <td>197 mph</td>
+ </tr>
+
+<tr>
+   <td>0-60</td>
+   <td>4.3sec</td>
+ </tr>
+
+<tr>
+   <td>Horse Power</td>
+   <td>626hp</td>
+</tr>
+	
+</table>
+
+<p>
+	<a href = "C:\Users\Glen Wright\Desktop\R8.html"> Next</a>
+</p>
+
+</body>
+
+
+
